@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-base" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-email" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-hibernatemvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-mybatismvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-oss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-quartz" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-query" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-utils" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-ui/jeeweb-beetl-tag" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-ui/jeeweb-ui-static" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-ui/jeeweb-ui-tag" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-web/jeeweb-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-web/jeeweb-bbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-web/jeeweb-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/jeeweb-web/jeeweb-vue" charset="UTF-8" />
+  </component>
+</project>

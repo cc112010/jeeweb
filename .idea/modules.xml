@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jeeweb.iml" filepath="$PROJECT_DIR$/jeeweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-web/jeeweb-admin/jeeweb-admin.iml" filepath="$PROJECT_DIR$/jeeweb-web/jeeweb-admin/jeeweb-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-web/jeeweb-bbs/jeeweb-bbs.iml" filepath="$PROJECT_DIR$/jeeweb-web/jeeweb-bbs/jeeweb-bbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-ui/jeeweb-beetl-tag/jeeweb-beetl-tag.iml" filepath="$PROJECT_DIR$/jeeweb-ui/jeeweb-beetl-tag/jeeweb-beetl-tag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common.iml" filepath="$PROJECT_DIR$/jeeweb-common/jeeweb-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-base/jeeweb-common-base.iml" filepath="$PROJECT_DIR$/jeeweb-common/jeeweb-common-base/jeeweb-common-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-email/jeeweb-common-email.iml" filepath="$PROJECT_DIR$/jeeweb-common/jeeweb-common-email/jeeweb-common-email.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-hibernatemvc/jeeweb-common-hibernatemvc.iml" filepath="$PROJECT_DIR$/jeeweb-common/jeeweb-common-hibernatemvc/jeeweb-common-hibernatemvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-mybatismvc/jeeweb-common-mybatismvc.iml" filepath="$PROJECT_DIR$/jeeweb-common/jeeweb-common-mybatismvc/jeeweb-common-mybatismvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-oss/jeeweb-common-oss.iml" filepath="$PROJECT_DIR$/jeeweb-common/jeeweb-common-oss/jeeweb-common-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-quartz/jeeweb-common-quartz.iml" filepath="$PROJECT_DIR$/jeeweb-common/jeeweb-common-quartz/jeeweb-common-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-query/jeeweb-common-query.iml" filepath="$PROJECT_DIR$/jeeweb-common/jeeweb-common-query/jeeweb-common-query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-security/jeeweb-common-security.iml" filepath="$PROJECT_DIR$/jeeweb-common/jeeweb-common-security/jeeweb-common-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-sms/jeeweb-common-sms.iml" filepath="$PROJECT_DIR$/jeeweb-common/jeeweb-common-sms/jeeweb-common-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-common/jeeweb-common-utils/jeeweb-common-utils.iml" filepath="$PROJECT_DIR$/jeeweb-common/jeeweb-common-utils/jeeweb-common-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-web/jeeweb-generator/jeeweb-generator.iml" filepath="$PROJECT_DIR$/jeeweb-web/jeeweb-generator/jeeweb-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-ui/jeeweb-ui.iml" filepath="$PROJECT_DIR$/jeeweb-ui/jeeweb-ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-ui/jeeweb-ui-static/jeeweb-ui-static.iml" filepath="$PROJECT_DIR$/jeeweb-ui/jeeweb-ui-static/jeeweb-ui-static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-ui/jeeweb-ui-tag/jeeweb-ui-tag.iml" filepath="$PROJECT_DIR$/jeeweb-ui/jeeweb-ui-tag/jeeweb-ui-tag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-web/jeeweb-vue/jeeweb-vue.iml" filepath="$PROJECT_DIR$/jeeweb-web/jeeweb-vue/jeeweb-vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jeeweb-web/jeeweb-web.iml" filepath="$PROJECT_DIR$/jeeweb-web/jeeweb-web.iml" />
+    </modules>
+  </component>
+</project>

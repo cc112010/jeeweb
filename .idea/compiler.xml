@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jeeweb-admin" />
+        <module name="jeeweb-bbs" />
+        <module name="jeeweb-beetl-tag" />
+        <module name="jeeweb-common-base" />
+        <module name="jeeweb-common-email" />
+        <module name="jeeweb-common-hibernatemvc" />
+        <module name="jeeweb-common-mybatismvc" />
+        <module name="jeeweb-common-oss" />
+        <module name="jeeweb-common-quartz" />
+        <module name="jeeweb-common-query" />
+        <module name="jeeweb-common-security" />
+        <module name="jeeweb-common-sms" />
+        <module name="jeeweb-common-utils" />
+        <module name="jeeweb-generator" />
+        <module name="jeeweb-ui-static" />
+        <module name="jeeweb-ui-tag" />
+        <module name="jeeweb-vue" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="jeeweb" target="1.8" />
+      <module name="jeeweb-admin" target="1.8" />
+      <module name="jeeweb-bbs" target="1.8" />
+      <module name="jeeweb-beetl-tag" target="1.8" />
+      <module name="jeeweb-common" target="1.8" />
+      <module name="jeeweb-common-base" target="1.8" />
+      <module name="jeeweb-common-email" target="1.8" />
+      <module name="jeeweb-common-hibernatemvc" target="1.8" />
+      <module name="jeeweb-common-mybatismvc" target="1.8" />
+      <module name="jeeweb-common-oss" target="1.8" />
+      <module name="jeeweb-common-quartz" target="1.8" />
+      <module name="jeeweb-common-query" target="1.8" />
+      <module name="jeeweb-common-security" target="1.8" />
+      <module name="jeeweb-common-sms" target="1.8" />
+      <module name="jeeweb-common-utils" target="1.8" />
+      <module name="jeeweb-generator" target="1.8" />
+      <module name="jeeweb-ui" target="1.8" />
+      <module name="jeeweb-ui-static" target="1.8" />
+      <module name="jeeweb-ui-tag" target="1.8" />
+      <module name="jeeweb-vue" target="1.8" />
+      <module name="jeeweb-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
