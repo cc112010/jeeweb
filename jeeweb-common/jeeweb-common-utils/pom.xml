@@ -29,7 +29,7 @@
         <!-- 验证码 -->
         <jcaptcha.version>2.0-alpha-1</jcaptcha.version>
         <!--网络访问-->
-        <httpclient.version>4.5.1</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
 
         <!--itextpdf工具-->
         <itextpdf.version>5.5.13</itextpdf.version>
