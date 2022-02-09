@@ -12,7 +12,7 @@
     <url>http://www.jeeweb.cn</url>
 
     <properties>
-        <hibernate.version>4.1.0.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
 
     </properties>
     <dependencies>
