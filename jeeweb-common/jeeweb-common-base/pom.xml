@@ -18,7 +18,7 @@
         <!--数据库连接-->
         <druid.version>1.0.14</druid.version>
         <!-- mysql -->
-        <mysql.version>5.1.27</mysql.version>
+        <mysql.version>8.0.28</mysql.version>
 
         <!-- 并发框架Disruptor -->
         <disruptor.version>3.3.6</disruptor.version>
