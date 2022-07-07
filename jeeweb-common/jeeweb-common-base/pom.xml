@@ -13,7 +13,7 @@
     <name>${project.artifactId}</name>
     <url>http://www.jeeweb.cn</url>
     <properties>
-        <hibernate.validator.version>5.1.1.Final</hibernate.validator.version>
+        <hibernate.validator.version>5.1.2.Final</hibernate.validator.version>
         <jboss-logging.version>3.3.1.Final</jboss-logging.version>
         <!--数据库连接-->
         <druid.version>1.0.14</druid.version>
